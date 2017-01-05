@@ -40,7 +40,6 @@ import android.widget.TextView;
 
 import com.github.danielnilsson9.colorpickerview.ColorUtils;
 
-import org.jetbrains.annotations.NotNull;
 
 
 public class ColorPickerDialogFragment extends DialogFragment {
