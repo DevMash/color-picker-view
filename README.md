@@ -1,4 +1,5 @@
 # ColorPickerView
+This component is forked from danielnilsson9,you can visit https://github.com/danielnilsson9/color-picker-view to see detail information.I forked it so that i can edit because it seems that daniel nilsson don't maintain it anymore.The pull request of andre99 don't have any response,i add it by myself.
 ##### A simple good looking color picker component for Android
 
 A color picker is something that has always been missing from the standard set of components which developers can build their user interface in Android with. This is a color picker which I wrote for one of my own project which I decided to release as open source.
