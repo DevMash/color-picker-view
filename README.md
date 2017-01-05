@@ -23,7 +23,8 @@ For doumentation about how to use the library, check the demo app included in th
 There are basicly three different ways to use this color picker. You can add it to your preferences using the ColorPreference class. You can also use it as a DialogFragment using the ColorPickerDialogFragment. Or you can simply use the ColorPickerView to add the color picker anywhere you want in you application. All three cases are demonstrated in the demo app, please refer to the demo for more information.
 
 ### Changelog
-
+##### Version 1.5.0
+- Add support for hexadecimal input(Thanks andre99)
 ##### Version 1.4.0
 - Change of package name due to problem with jcenter publish. New package name is: com.github.danielnilsson9.colorpickerview, sorry for the inconvenience.
 - Fix for project could not be built due to obsolet android build tool version used.
