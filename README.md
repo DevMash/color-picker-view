@@ -25,6 +25,7 @@ There are basicly three different ways to use this color picker. You can add it 
 ### Changelog
 ##### Version 1.5.0
 - Add support for hexadecimal input(Thanks andre99)
+
 ##### Version 1.4.0
 - Change of package name due to problem with jcenter publish. New package name is: com.github.danielnilsson9.colorpickerview, sorry for the inconvenience.
 - Fix for project could not be built due to obsolet android build tool version used.
