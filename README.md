@@ -5,8 +5,8 @@ This component is forked from danielnilsson9,you can visit https://github.com/da
 A color picker is something that has always been missing from the standard set of components which developers can build their user interface in Android with. This is a color picker which I wrote for one of my own project which I decided to release as open source.
 
 ### Screenshots
-<img src="https://cloud.githubusercontent.com/assets/5458667/7705688/079f4872-fe46-11e4-9c0c-a0083bac8d10.png" alt="Screenshot1" width="240">
-<img src="https://cloud.githubusercontent.com/assets/5458667/7705689/07a0673e-fe46-11e4-94c8-49a980e7d1b5.png" alt="Screenshot2" width="460">
+<img src="https://github.com/woniulive/color-picker-view/blob/d11cbbe9862642128aa62f303d4d8b6f22e0b611/demo/phone_screenshot.png" alt="Screenshot1" width="240">
+<img src="https://github.com/woniulive/color-picker-view/blob/d11cbbe9862642128aa62f303d4d8b6f22e0b611/demo/tablet_screenshot.png" alt="Screenshot2" width="460">
 
 ### How to use
 The library is on jcenter. If you are using Android studio (and gradle), just add this line to your module
